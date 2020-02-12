@@ -1,0 +1,10 @@
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\bin\Debug\codes1.exe.config
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\bin\Debug\codes1.exe
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\bin\Debug\codes1.pdb
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.csprojAssemblyReference.cache
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.Form1.resources
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.Properties.Resources.resources
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.csproj.GenerateResource.cache
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.csproj.CoreCompileInputs.cache
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.exe
+S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.pdb
