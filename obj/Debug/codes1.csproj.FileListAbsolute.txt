@@ -8,3 +8,13 @@ S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.csproj.
 S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.csproj.CoreCompileInputs.cache
 S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.exe
 S:\УЧЁБА\Festu\2 semest\Anisimov\labs_codes\codes1\obj\Debug\codes1.pdb
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\bin\Debug\codes1.exe.config
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\bin\Debug\codes1.exe
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\bin\Debug\codes1.pdb
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\obj\Debug\codes1.Form1.resources
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\obj\Debug\codes1.Properties.Resources.resources
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\obj\Debug\codes1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\obj\Debug\codes1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\obj\Debug\codes1.exe
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\obj\Debug\codes1.pdb
+C:\Users\User\Desktop\Work\EDU\2sem\anisimow\labs-crypto-master\obj\Debug\codes1.csprojAssemblyReference.cache

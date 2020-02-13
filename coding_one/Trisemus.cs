@@ -8,5 +8,6 @@ namespace codes1.coding_one
 {
     class Trisemus
     {
+
     }
 }
